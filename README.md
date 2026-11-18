@@ -2,7 +2,7 @@
 
 Global Solution 2026.2, Ciencia da Computacao (1CC), FIAP. Disciplina: Solucoes em Energias Renovaveis e Sustentaveis.
 
-Esta e a nossa parte do Citizen Assist AI. Partimos de uma duvida que muita gente que dirige na cidade tem: vale a pena trocar o carro a gasolina por um eletrico? E se colocar painel solar na casa? O modulo responde isso com numeros, mostra de onde cada dado veio e avisa o que a conta nao cobre.
+Esta e a nossa parte do Citizen Assist AI. Partimos de uma duvida que muita gente que dirige na cidade tem: vale a pena trocar o carro a gasolina por um eletrico? ou vale a pena eu carregar esse carro eletrico  com painel solar ou na rede? O modulo responde isso com numeros.
 
 Neste repositorio (`S-2026.2-Citizen-Tech-SERS`) estao o codigo, os dados com a origem de cada numero, as contas e o registro dos testes.
 
