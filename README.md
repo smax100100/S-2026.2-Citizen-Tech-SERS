@@ -90,7 +90,7 @@ Limitacoes: Estimativa operacional (nao inclui diferenca de compra do veiculo ou
 
 ## 5. Dados e premissas (`dados/premissas.csv`)
 
-Dividimos os dados em dois tipos. "Real" e o que vem de uma base publica oficial. "Estimado" e uma premissa nossa, com a justificativa na mesma linha. Todas as consultas foram feitas em 17/11/2026.
+Dividimos os dados em dois tipos. "Real" e o que vem de uma base publica oficial. "Estimado" e uma premissa nossa, com a justificativa na mesma linha. Todas as consultas foram feitas em 15/11/2026.
 
 | Parametro | Valor | Unidade | Fonte ou justificativa | Tipo |
 | :--- | :---: | :---: | :--- | :---: |
