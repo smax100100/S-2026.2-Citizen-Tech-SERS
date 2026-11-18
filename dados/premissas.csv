@@ -1,0 +1,19 @@
+parametro,valor,unidade,fonte,data_consulta,tipo
+km_por_dia,30,km,Premissa do grupo (perfil de deslocamento urbano RMSP),17/11/2026,estimado
+dias_por_mes,22,dias,Premissa do grupo (dias uteis no mes),17/11/2026,estimado
+meses_periodo,12,meses,Premissa do grupo (periodo comum de comparacao),17/11/2026,estimado
+preco_gasolina,6.34,R$/L,ANP - Levantamento Semanal de Precos (Sao Paulo/SP - semana 08/11 a 14/11/2026),17/11/2026,real
+preco_etanol,4.09,R$/L,ANP - Levantamento Semanal de Precos (Sao Paulo/SP - semana 08/11 a 14/11/2026),17/11/2026,real
+consumo_combustao,13.6,km/L,Inmetro - PBE Veicular 2026 (Fiat Argo 1.0 manual - gasolina - ciclo urbano),17/11/2026,real
+consumo_eletrico,0.108,kWh/km,Inmetro - PBE Veicular 2026 (BYD Dolphin Mini GL - 0.39 MJ/km / 3.6),17/11/2026,real
+perda_recarga,0.15,fracao,Premissa tecnica justificada (perda media de 15% em carregador residencial AC),17/11/2026,estimado
+tarifa_energia,1.0241,R$/kWh,ANEEL - REH 3.596/2026 Enel SP (R$ 0.78938 sem tributos / ((1-0.18)*(1-0.06)) - ICMS 18% e PIS/COFINS 6% por dentro - bandeira verde),17/11/2026,real
+taxa_minima_kwh,50,kWh/mes,ANEEL - REN 1.000/2021 (custo de disponibilidade ligacao bifasica),17/11/2026,real
+fator_emissao_gasolina,1.504,kg CO2/L,Programa Brasileiro GHG Protocol (Gasolina C comercial E32 vigente desde 01/08/2026 - 68% gasolina A x 2.212 kg CO2/L),17/11/2026,real
+fator_emissao_rede,0.0385,kg CO2/kWh,MCTI/SIRENE - Fator Medio de Emissao do SIN - media anual 2023 (0.0385 tCO2/MWh),17/11/2026,real
+irradiacao_solar,4.45,kWh/m2.dia,CRESESB/CEPEL - SunData v3.0 / Atlas Brasileiro de Energia Solar (Sao Paulo/SP - plano horizontal),17/11/2026,real
+performance_solar_pr,0.78,adimensional,Premissa tecnica justificada (Performance Ratio padrao 0.75 a 0.80 - INPE/CRESESB),17/11/2026,estimado
+potencia_modulo_wp,550,Wp,Premissa tecnica justificada (modulo fotovoltaico comercial usual de 550 Wp),17/11/2026,estimado
+preco_sistema_solar,2.45,R$/Wp,Relatorios de mercado fotovoltaico Brasil 2026 (Greener / Solfacil),17/11/2026,estimado
+percentual_fio_b,0.60,fracao,Lei 14.300/2022 e ANEEL (transicao de cobranca de 60% do Fio B em 2026),17/11/2026,real
+tarifa_fio_b_com_tributos,0.36,R$/kWh,ANEEL - REH 3.596/2026 Enel SP (parcela TUSD Fio B estimada com tributos),17/11/2026,estimado
