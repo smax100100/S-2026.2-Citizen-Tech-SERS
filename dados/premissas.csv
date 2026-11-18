@@ -1,7 +1,7 @@
 parametro,valor,unidade,fonte,data_consulta,tipo
-km_por_dia,30,km,Premissa do grupo (perfil de deslocamento urbano RMSP),17/11/2026,estimado
-dias_por_mes,22,dias,Premissa do grupo (dias uteis no mes),17/11/2026,estimado
-meses_periodo,12,meses,Premissa do grupo (periodo comum de comparacao),17/11/2026,estimado
+km_por_dia,30,km,Premissa do grupo (perfil de deslocamento urbano RMSP),15/11/2026,estimado
+dias_por_mes,22,dias,Premissa do grupo (dias uteis no mes),15/11/2026,estimado
+meses_periodo,12,meses,Premissa do grupo (periodo comum de comparacao),15/11/2026,estimado
 preco_gasolina,6.34,R$/L,ANP - Levantamento Semanal de Precos (Sao Paulo/SP - semana 08/11 a 14/11/2026),15/11/2026,real
 preco_etanol,4.09,R$/L,ANP - Levantamento Semanal de Precos (Sao Paulo/SP - semana 08/11 a 14/11/2026),15/11/2026,real
 consumo_combustao,13.6,km/L,Inmetro - PBE Veicular 2026 (Fiat Argo 1.0 manual - gasolina - ciclo urbano),15/11/2026,real
